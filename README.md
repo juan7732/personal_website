@@ -49,7 +49,7 @@ Here are a few of the skills I've become experienced with:
 
 ### Habitat for Humanity Warehouse Inventory System
 
-This is a *proof-of-concept* project for my Database Management systems class where a classmate ( @bargeje ) and I are creating a Django webapp that will allow Habitat for Humanity to manage projects, their warehouse, and the people working on their projects in a simple efficient way. [Learn more here](https://juan-valencia.HFHWI)
+This is a *proof-of-concept* project for my Database Management systems class where a classmate ( @bargeje ) and I are creating a Django webapp that will allow Habitat for Humanity to manage projects, their warehouse, and the people working on their projects in a simple efficient way. [Learn more here](https://juan-valencia.com/HFHWI/)
 
 ### Driving Jacks Ride Sharing Infrastructure and Mobile App
 
