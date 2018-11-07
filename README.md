@@ -59,6 +59,6 @@ This is my biggest project for the end of my undergraduate career. It is a priva
 
 Currently, I am at DeveloperWeek Austin and I am pumped to meet new people, discover new technologies such as [HERE location Services](https://www.here.com/en) and [Rev.ai Speech-to-text APIs](https://www.rev.ai/), as well as participating in the hackathon!
 
-![Hard at work](./devweekHackathon.JPG)
+![Hard at work](./devweekhackathon.JPG)
 
 Shoutout to [HERE](https://www.here.com/en) for the great coffee!
