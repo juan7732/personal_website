@@ -55,6 +55,13 @@ This is a *proof-of-concept* project for my Database Management systems class wh
 
 This is my biggest project for the end of my undergraduate career. It is a private project however, due to the confidential nature of the data being used. Feel free to [email me](mailto:juan7732@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/juanruizvalencia/) to discuss the project in more depth. The goal of this project was to learn more about different JavaScript technologies like Node.js and Express.js while providing a service to my community.
 
+### Open Movie Database API Assignment
+
+[Juan's Movie Search](https://juan-valencia.com/MovieSearch)
+For this project I mostly just really wanted to learn how to use bootstrap and figured that I could apply it to one of my homework assignments for my Internet Technologies Class. I did the majority of the work including the cover page, simple search, and advanced search in the first three days, I have to put it on the backburner though for this week as tests are coming up. The site itself is just a front end built on top of the OMDB api. As the API does not have an https certificate, to properly load search results, you might have to allow the loading of unsafe scripts in the upper bar.
+
+![MovieSearchImage](./moviesearchimg.png)
+
 # What I do for fun!
 
 Currently, I am at DeveloperWeek Austin and I am pumped to meet new people, discover new technologies such as [HERE location Services](https://www.here.com/en) and [Rev.ai Speech-to-text APIs](https://www.rev.ai/), as well as participating in the hackathon!
