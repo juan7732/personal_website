@@ -2,6 +2,7 @@
   "name": "my_website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/juan7732/juan7732.github.io",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
