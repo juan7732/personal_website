@@ -6,8 +6,8 @@ const WipJumbotron = (props) => {
     <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">This site is a work in progress</h1>
-          <p className="lead">Come back later for more to come.</p>
+          <h1 className="display-3">Happy Birthday Skyler!</h1>
+          <p className="lead">When do you want to go to Perry's?</p>
         </Container>
       </Jumbotron>
     </div>
