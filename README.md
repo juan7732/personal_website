@@ -1,7 +1,4 @@
 # Welcome to my personal website
 
-# Currently on version: 3
+# Currently on version: 0.4
 
-
-I am using React-Bootstrap for this one.
-https://react-bootstrap.github.io/getting-started/introduction
